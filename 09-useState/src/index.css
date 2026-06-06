@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+html,
+body {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+h1 {
+  background-color: rgb(112, 107, 107);
+  width: fit-content;
+  font-size: 100px;
+  padding: 10px 70px;
+  border-radius: 5px;
+  margin: 20px;
+}
